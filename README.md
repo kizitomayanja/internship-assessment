@@ -1,5 +1,7 @@
 # Sunbird AI Internship Assessment Exercise
 
+translate.py has been placed in the folder named 'exercises'
+
 This assessment consists of 2 parts:
 - Programming exercises.
 - Build a simple command line app using the Sunbird AI API.
